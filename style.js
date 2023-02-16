@@ -1,1 +1,1 @@
-console.log("Here is new Style Feature :)");
+console.log("Here is new Style Feature :D");
